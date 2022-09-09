@@ -47,7 +47,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 ## Deploying your project
 
-Live Site 
+<a href="https://amazing-cannoli-1103b8.netlify.app/">Live Site</a>
 
 ## Got feedback for us?
 

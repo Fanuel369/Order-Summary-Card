@@ -4,6 +4,9 @@ body {
     background-color: hsl(225, 100%, 94%);
     display: flex;
     justify-content: center;
+    background-size: contain;
+    align-items: center;
+    min-height: 100vh;
 }
 
 @font-face {

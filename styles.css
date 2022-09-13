@@ -2,10 +2,11 @@ body {
     background-image: url(images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
     background-color: hsl(225, 100%, 94%);
-    display: flex;
-    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     background-size: contain;
-    align-items: center;
     min-height: 100vh;
 }
 
@@ -131,6 +132,7 @@ body {
     color: white; 
     font-weight: 950;
     box-shadow: 0 4px 8px 0px rgba(0, 0, 0, 0.38);
+    font-family: Red-Hat-Display-Bolder !important;
     padding: 3%;
  }
 
@@ -149,7 +151,5 @@ body {
         background-image: url(images/pattern-background-mobile.svg);
         background-repeat: no-repeat;
         background-color: hsl(225, 100%, 94%);
-        display: flex;
-        justify-content: center;
     }
  }
